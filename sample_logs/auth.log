@@ -1,0 +1,9 @@
+Sep 24 09:12:01 lab sshd[1201]: Failed password for invalid user admin from 203.0.113.42 port 51122 ssh2
+Sep 24 09:12:04 lab sshd[1202]: Failed password for invalid user admin from 203.0.113.42 port 51124 ssh2
+Sep 24 09:12:07 lab sshd[1203]: Failed password for root from 203.0.113.42 port 51126 ssh2
+Sep 24 09:12:10 lab sshd[1204]: Failed password for root from 203.0.113.42 port 51128 ssh2
+Sep 24 09:12:13 lab sshd[1205]: Failed password for root from 203.0.113.42 port 51130 ssh2
+Sep 24 09:14:20 lab sshd[1210]: Failed password for alice from 198.51.100.18 port 52000 ssh2
+Sep 24 09:15:00 lab sshd[1212]: Accepted publickey for alice from 198.51.100.25 port 52010 ssh2
+Sep 24 09:16:10 lab sudo: pam_unix(sudo:auth): authentication failure; logname=alice uid=1000 euid=0 tty=/dev/pts/0 ruser=alice rhost= user=alice
+Sep 24 09:20:00 lab CRON[1300]: routine maintenance task
